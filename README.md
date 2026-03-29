@@ -41,13 +41,13 @@ The dataset contains retail sales data including:
 ![Dashboard](images/Dashboard.png)
 
 ### Sales by Category
-![Sales by Category](images/Sales by Category.png)
+![Sales by Category](images/Sales_by_Category.png)
 
 ### Profit by Region
-![Profit by Region](images/Profit by Region.png)
+![Profit by Region](images/Profit_by_Region.png)
 
 ### Top Products
-![Top Products](images/Top Products.png)
+![Top Products](images/Top_Products.png)
 
 ---
 
